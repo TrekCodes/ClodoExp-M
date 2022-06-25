@@ -3,10 +3,11 @@
 <div align="center">
   <a href="https://github.com/TrekCodes/ClodoExp-M/blob/main/clodo.png">
     <img src="clodo.png" alt="Logo" width="80" height="80">
-  </a>
-<br />  
+  </a>  
   
 <h1 align="center">Welcome to Clodo Exp-Manager 👋</h1>
+  
+</div>  
 
 ## 🚀 Description 
 Clodo Exp-Manager is known as Clodo Expense Manager,It has been Developed by trekcodes for Public.
