@@ -33,11 +33,6 @@ You Can Store Your Secret Notes.
 - Password Manager
 - Support's IOS / Android / Web / Linux
 
-## Windows Download
-
-<p align="center">
-  <img width="200" align="center" src="https://github.com/TrekCodes/ClodoExp-M/blob/main/ihr_qr_code_ohne_logo.jpg" alt="demo"/>
-</p>
 
 ## 📝 License
 
