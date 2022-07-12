@@ -15,7 +15,7 @@ Clodo Exp-Manager is known as Clodo Expense Manager,It has been Developed by tre
 ## Demo 
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/TrekCodes/ClodoExp-M/blob/8d5a6dbfc33b72c56ee38abf184379d8b8dcd081/1.png" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/TrekCodes/ClodoExp-M/blob/cebd5f1c2714a652a87680be4b484d4c92d74ab8/Capture.PNG" alt="demo"/>
 </p>
 
 ## Usage
