@@ -23,15 +23,16 @@ Clodo Exp-Manager is known as Clodo Expense Manager,It has been Developed by tre
 You Can Manage Your Daily Expenses.
 You Can Store Your Secret Notes.
 
-## Version - v1.5.0
+## Version - v1.5.1
 - Major Bug Fix
 - Application Optimized
 - Added Security in Application
+- Added Android Support
 
 ## Upcoming Feature
 - Cloud Access
 - Password Manager
-- Support's IOS / Android / Web / Linux
+- Support's IOS / Web / Linux
 
 
 ## 📝 License
